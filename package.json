@@ -1,0 +1,19 @@
+{
+  "name": "holy-grail-set-up-with-express-routes_starter",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index1.js"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "ashley elowsky",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
