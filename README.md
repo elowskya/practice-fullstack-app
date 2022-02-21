@@ -7,4 +7,4 @@ more to come
 <li>Run npm start to run start script</li>
 <li>Navigate to localhost:3000 to view application</li>
 
-<img src="public/applicationUI.JPG">
+<img src="applicationUI.JPG">
